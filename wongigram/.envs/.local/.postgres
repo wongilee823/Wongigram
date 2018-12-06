@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=wongigram
+POSTGRES_USER=npVmOVjTBQYjyVVZuGfZwrWnhcSWGLDD
+POSTGRES_PASSWORD=35Lqz1emavGxbQuYl3RISFNiJ1iiznQn5o7d7ymR6ViYRcmHfykxXwGw7yNpJwqp
